@@ -7,7 +7,7 @@ void main() {
         backgroundColor: Colors.grey,
         appBar:AppBar(
           title:Text('I am Rich'),
-          backgroundColor:Colors.green,
+          backgroundColor:Colors.black54,
         ),
         body: Center(
           child: Image(
